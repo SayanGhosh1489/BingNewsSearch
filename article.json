@@ -1,0 +1,2228 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=indian+politics",
+    "queryContext": {
+        "originalQuery": "indian politics",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 45,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=indian+politics"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=indian+politics&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Government constitutes cabinet committees on security, economic and <b>political</b> affairs; allies accommodated",
+            "url": "https://www.zeebiz.com/india/news-government-constitutes-cabinet-committees-on-security-economic-and-political-affairs-allies-accommodated-narendra-modi-modi-30-cabinet-bjp-cabinet-committee-299658",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.FayncYmJRgmucuzOuzH-0i&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The Cabinet Committee on <b>Political</b> Affairs comprises Modi, Rajnath Singh, Shah, Gadkari, Sitharaman, Goyal, Health Minister J P Nadda, Civil Aviation Minister Kinjarapu Ram Mohan Naidu, Minister of Micro, Small and Medium Enterprises Jitan Ram Manjhi ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/10a3faba-0915-560d-017e-06bef4a4770d",
+                    "name": "Janata Dal"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/69a3eaa0-7892-9d48-cc0f-fc341d240aeb",
+                    "name": "Telugu Desam Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/835eb63a-e4e6-2f68-8a2f-f91890283520",
+                    "name": "Shiv Sena"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b2050c1a-0ea0-4ef0-dc6d-4e5c5d2c363f",
+                    "name": "Lok Janshakti Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6b503b83-001b-d152-d75c-bc1eddedcd25",
+                    "name": "Cabinet Committee on Security"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7dd7d84c-a149-b920-f49d-043dc1e0de75",
+                    "name": "Rajnath Singh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d9a8abc-8fa4-620b-cf5f-c5c212f38516",
+                    "name": "Amit Shah"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2f88c75b-5285-dbaf-1376-14da212339a3",
+                    "name": "Nirmala Sitharaman"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/11b3306b-7a3f-4e42-9df9-6c5ceee18ef9",
+                    "name": "S. Jaishankar"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Zee Business"
+                }
+            ],
+            "datePublished": "2024-07-03T15:22:00.0000000Z"
+        },
+        {
+            "name": "&#39;Became CM through back door manipulations&#39;: Gaurav Gogoi lashes out at Assam CM Himanta Biswa Sarma over his tweets on ex-Jharkhand CM Champai Soren",
+            "url": "https://www.businesstoday.in/india/story/became-cm-through-back-door-manipulations-gaurav-gogoi-lashes-out-at-assam-cm-himanta-biswa-sarma-over-his-tweets-on-ex-jharkhand-cm-champai-soren-435732-2024-07-03",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.gHP7yTpGIVBz0ML9AAs70S&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Addressing Soren&#39;s comeback, Sarma expressed his discontent on social media platform X, stating, &quot;The removal of a senior tribal leader from the post of Chief Minister in Jharkhand by the JMM and Congress party is deeply distressing.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c68ab57c-e8b8-4426-b7eb-6ce50d71c92a",
+                    "name": "Himanta Biswa Sarma"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a9d4e5df-f559-c28f-dc41-7c72a82dfaf7",
+                    "name": "Assam"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9cf33868-3d76-c243-1cd3-91dda44b77e3",
+                    "name": "Jharkhand"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e25bf8b3-60bf-f1c6-0adf-8de728b101bc",
+                    "name": "Hemant Soren"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Himanta Biswa Sarma"
+                },
+                {
+                    "name": "Gaurav Gogoi"
+                },
+                {
+                    "name": "Assam"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Today",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.8BpE35tSvMsaPuy1Ts7PVg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T15:05:00.0000000Z",
+            "category": "India"
+        },
+        {
+            "name": "<b>Political</b> News: PM Modi Discusses Manipur In Rajya Sabha, Says Violence Declining In State",
+            "url": "https://www.moneycontrol.com/news/videos/india/political-news-pm-modi-discusses-manipur-in-rajya-sabha-says-violence-declining-in-state-12761724.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.WNSjTt0KnF5i7zdI63vNxi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "PM Modi spoke about Manipur in Rajya Sabha and said violence has been declining in the state. He also raised the West Bengal flogging case and said \u2018pro-women leaders have locked their mouths\u2019, Opposition staged a walk out of Rajya Sabha during PM Modi\u2019s speech,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/774dc6a3-56a4-d8f3-26d2-6e2536af50a5",
+                    "name": "Manipur"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ae97ea70-b5a9-3e5a-d688-d21b85110ac5",
+                    "name": "Hathras"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27fe1dd8-5711-56d7-c77a-7b4d937dcbfe",
+                    "name": "Delhi, Iowa"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/406f9300-0c0c-3948-9d26-5c194e968300",
+                    "name": "Arvind Kejriwal"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "moneycontrol.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6cDpSqcPHtFVWBrthkD9pQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T15:03:00.0000000Z"
+        },
+        {
+            "name": "Discussions around AI regulations ongoing; <b>political</b> consensus required, says Union Minister Ashwini Vaishnaw",
+            "url": "https://www.tribuneindia.com/news/business/discussions-around-ai-regulations-ongoing-political-consensus-required-says-union-minister-ashwini-vaishnaw-636417",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.jDTSVPAnE0q6eeU4CnmMUS&pid=News",
+                    "width": 600,
+                    "height": 400
+                }
+            },
+            "description": "Asked about the timelines for <b>India</b> to carve out regulation and guardrails on AI, the minister said while discussions are ongoing, <b>political</b> consensus would be needed. \u201cDiscussions are on... it requires <b>political</b> consensus,\u201d he said. Speaking at the ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d54a598b-c45c-559c-d0e2-d5ba83e384d5",
+                    "name": "Ashwini Vaishnaw"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/289616bc-deab-6382-ed66-a8fcfb191f0a",
+                    "name": "Jitin Prasada"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Tribune"
+                }
+            ],
+            "datePublished": "2024-07-03T14:58:00.0000000Z"
+        },
+        {
+            "name": "Govt constitutes cabinet committees on security, economic and <b>political</b> affairs; allies accommodated",
+            "url": "https://theprint.in/india/govt-constitutes-cabinet-committees-on-security-economic-and-political-affairs-allies-accommodated/2159243/",
+            "description": "The Modi government on Wednesday constituted various cabinet committees, including the country\u2019s highest decision making bodies on security, economic and political affairs. The members of the cabinet committees included Union ministers from the BJP and its NDA partners like Janata Dal (U),",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b474d3c7-a39a-d5ba-7426-18e00042f03e",
+                    "name": "New Delhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/10a3faba-0915-560d-017e-06bef4a4770d",
+                    "name": "Janata Dal"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/69a3eaa0-7892-9d48-cc0f-fc341d240aeb",
+                    "name": "Telugu Desam Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/835eb63a-e4e6-2f68-8a2f-f91890283520",
+                    "name": "Shiv Sena"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b2050c1a-0ea0-4ef0-dc6d-4e5c5d2c363f",
+                    "name": "Lok Janshakti Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6b503b83-001b-d152-d75c-bc1eddedcd25",
+                    "name": "Cabinet Committee on Security"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7dd7d84c-a149-b920-f49d-043dc1e0de75",
+                    "name": "Rajnath Singh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d9a8abc-8fa4-620b-cf5f-c5c212f38516",
+                    "name": "Amit Shah"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2f88c75b-5285-dbaf-1376-14da212339a3",
+                    "name": "Nirmala Sitharaman"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/11b3306b-7a3f-4e42-9df9-6c5ceee18ef9",
+                    "name": "S. Jaishankar"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/97373fc2-aa9b-43ae-8b15-e50a1cae2071",
+                    "name": "ThePrint"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ThePrint",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.9kfNo9d18zH27ShHLQcBfw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T14:44:00.0000000Z"
+        },
+        {
+            "name": "Hinduism to Manipur, his party\u2019s numbers to Constitution: Key takeaways from PM Modi\u2019s replies in Parliament",
+            "url": "https://indianexpress.com/article/political-pulse/rahul-gandhi-narendra-modi-parliament-upper-house-9430975/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.8EdkemB6bXgC2FBM5AQY9C&pid=News",
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "description": "Modi\u2019s attempt was clearly to play on the fault lines within <b>INDIA</b>, which is hoping to continue its alliance into the coming elections. * Manipur, paper leaks, \u2018misuse\u2019 of agencies: \u2018Don\u2019t do <b>politics</b>\u2019 Accused by the Opposition of using Central ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d496e291-47a4-b709-8394-c49c49c10563",
+                    "name": "Hinduism"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/774dc6a3-56a4-d8f3-26d2-6e2536af50a5",
+                    "name": "Manipur"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/88003aeb-e7bf-a101-f29d-a558e695181b",
+                    "name": "Parliament"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9913cc2e-f0ca-d666-8d18-c801ab4e8b46",
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7543726-7cf5-dea2-2675-976bdf3fc515",
+                    "name": "Lok Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Indian Express"
+                }
+            ],
+            "datePublished": "2024-07-03T14:33:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "UK \u2018wipeout\u2019 polls: Starmer\u2019s rural outreach vs Sunak\u2019s \u2018robotised\u2019 campaign. Will Labour crush Tories?",
+            "url": "https://www.wionews.com/world/uk-wipeout-polls-starmers-rural-outreach-vs-sunaks-robotised-campaign-will-labour-crush-tories-737541",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.X5ncVNgrvJ1K4R30wZhawi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "On May 22, a rain-drenched British Prime Minister Rishi Sunak announced early general elections in the United Kingdom outside Downing Street in a surprise move.\u00a0 This was the beginning of the battleground between the Conservative Party and Labour Party in which the two political parties are free to wield the sword of their choice to ensure their conquest.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/61bf363e-2312-be92-8979-7d34f44601c7",
+                    "name": "Tories"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/79551c5d-075b-e493-70a2-f5b22a4876e1",
+                    "name": "Rishi Sunak"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b327a4f2-7f7a-a27c-60e2-d0d254922e0c",
+                    "name": "Downing Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9000aafd-a3fc-3069-ec13-637cb8aa9ae7",
+                    "name": "Conservative Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c38266bb-c5ec-d1d6-9bfe-d6b6ec242aa1",
+                    "name": "Labour Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/975a0e4b-d87c-1f4b-4047-e9bd5d95ccd9",
+                    "name": "D-Day"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Campaign"
+                },
+                {
+                    "name": "Wipeout"
+                },
+                {
+                    "name": "World"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WION",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FcttdJgMR0XGb35SksBcag&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T14:33:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "Three Things Hemant Soren Is Doing To Win Jharkhand Again",
+            "url": "https://swarajyamag.com/commentary/three-things-hemant-soren-is-doing-to-win-jharkhand-again",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.du4_DFuCx_VFk5-UcvTz6i&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Former Jharkhand Chief Minister Hemant Soren, whose party, the Jharkhand Mukti Morcha (JMM) is in power in the state, is currently out on bail",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e25bf8b3-60bf-f1c6-0adf-8de728b101bc",
+                    "name": "Hemant Soren"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9cf33868-3d76-c243-1cd3-91dda44b77e3",
+                    "name": "Jharkhand"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/194fcf4d-07f6-cf96-2049-0c75e15cbad3",
+                    "name": "Jharkhand Mukti Morcha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/200dd51f-4e6c-b47f-9d43-4c0bc014db07",
+                    "name": "Shibu Soren"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Swarajya",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.RRQRl9FqeHHzjIqFDSNZFg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T14:05:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Anguish of Manipur reverberates in Lok Sabha as Congress Manipur MP speaks against PM Modi\u2019s \u201csilence\u201d",
+            "url": "https://sabrangindia.in/anguish-of-manipur-reverberates-in-lok-sabha-as-congress-manipur-mp-speaks-against-pm-modis-silence/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.YvEcUQEoRj-OfgZrTZ_c5i&pid=News",
+                    "width": 700,
+                    "height": 437
+                }
+            },
+            "description": "MP for Inner Manipur A. Bimol Akoijam accused the BJP led union and state government of ignoring the pleas of the people of Manipur, came down heavily on PM Modi for not visiting the state since May of 2023.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/774dc6a3-56a4-d8f3-26d2-6e2536af50a5",
+                    "name": "Manipur"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7543726-7cf5-dea2-2675-976bdf3fc515",
+                    "name": "Lok Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ab45e6b8-6901-2f2c-bdeb-02cc7ca9c3cc",
+                    "name": "Meitei language"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2cb58c1b-4a55-4a91-b43b-79006591d406",
+                    "name": "President of India"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "sabrangindia.in",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.yX7UWVGDOWhiIy5J07jtdg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T13:21:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Explained | All you need to know about UK general election 2024, set for tomorrow",
+            "url": "https://www.cnbctv18.com/world/2024-uk-general-election-all-you-need-to-know-explainer-rishi-sunak-keir-starmer-19437685.htm",
+            "description": "Britain is on the cusp of a political shift, with the Labour Party under Keir Starmer poised to end the Conservatives&#39; 14-year rule. Starmer&#39;s steady leadership style and pragmatic approach have resonated with voters weary of the Tories&#39; failure to properly deal with like the economy and the flagging National Health Service (NHS).",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c38266bb-c5ec-d1d6-9bfe-d6b6ec242aa1",
+                    "name": "Labour Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/63a6ef59-71fd-db08-08c6-d47d973d47fb",
+                    "name": "Keir Starmer"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9000aafd-a3fc-3069-ec13-637cb8aa9ae7",
+                    "name": "Conservative Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6979ba0c-2e68-834b-2c08-25919c566a7b",
+                    "name": "Upper house"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/38825ab0-8b92-32bc-6299-beab79194e8d",
+                    "name": "Lower house"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/accd669f-9053-3a8c-78fc-d4fdeb378ee4",
+                    "name": "House of Lords"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1ef714d4-7723-63ce-e774-815abf75fad9",
+                    "name": "House of Peers"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ea2973a-9a49-9ff0-b4c2-548849f5a31b",
+                    "name": "House of Commons"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a0377d96-1a18-f843-65ad-adcbc4acdc69",
+                    "name": "Scotland"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b51b24e1-6afb-d525-d360-f2eb5bf3410b",
+                    "name": "Wales"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e4b8bc44-385c-e87b-bb7d-b32328f53502",
+                    "name": "Northern Ireland"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e449a605-e54d-180e-3d97-8e292fb95783",
+                    "name": "Member of parliament"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "cnbctv18",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.RZtPQkbpYKMzm8KsTiLKGw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T13:09:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "<b>India</b> calls for caution on actions rooted in authorisation from a UNSC not representative of current realities",
+            "url": "https://theprint.in/world/india-calls-for-caution-on-actions-rooted-in-authorisation-from-a-unsc-not-representative-of-current-realities/2159024/",
+            "description": "Underlining the need to strengthen the existing mechanisms in UN peacekeeping operations, India has urged caution against actions rooted in authorisation from a Security Council that does not represent current realities and underscored the need to reform the powerful UN body.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/745078b6-bda9-6c9c-3967-aeda6bb10099",
+                    "name": "United Nations"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6a5e063d-2d36-555f-d8fe-6b453978b88d",
+                    "name": "Intelligence Bureau"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ThePrint",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.9kfNo9d18zH27ShHLQcBfw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T12:46:00.0000000Z"
+        },
+        {
+            "name": "Editorial: Rahul Gandhi\u2019s Fiery Speech In Lok Sabha Sparks Debate",
+            "url": "https://www.freepressjournal.in/analysis/editorial-rahul-gandhis-fiery-speech-sparks-debate",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.nAtPpOMWWoFnN1MuCz0oHC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Rahul Gandhi\u2019s maiden speech as the Leader of Opposition in the Lok Sabha has sparked considerable debate both within the House and beyond. The essence of his address was to highlight the ethos of India,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9913cc2e-f0ca-d666-8d18-c801ab4e8b46",
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04c21044-49e2-9438-b506-2eee8ee119b1",
+                    "name": "Leader of the Opposition"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7543726-7cf5-dea2-2675-976bdf3fc515",
+                    "name": "Lok Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "name": "Speech or Debate Clause"
+                },
+                {
+                    "name": "India"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Free Press Journal",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.fgVh1NcJQdrfa20Bh5AZfw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T11:16:00.0000000Z"
+        },
+        {
+            "name": "PM Modi raises Bengal flogging incident, slams Oppn&#39;s &#39;selective <b>politics</b>&#39; on women atrocities",
+            "url": "https://www.ibtimes.co.in/pm-modi-raises-bengal-flogging-incident-slams-oppns-selective-politics-women-atrocities-869791",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.daxA97YlyKfx8VOtKxu4lC&pid=News",
+                    "width": 700,
+                    "height": 436
+                }
+            },
+            "description": "Even those who champion women&#39;s safety and consider themselves as progressive women leaders have maintained silence on this issue because it might affect their <b>political</b> equations.&quot; Further highlighting <b>India</b>&#39;s progress towards women&#39;s development ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/067d886f-4d7d-8889-c8c7-d54e2dbc1cb8",
+                    "name": "West Bengal"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "IBTimes India"
+                }
+            ],
+            "datePublished": "2024-07-03T11:10:00.0000000Z",
+            "category": "India"
+        },
+        {
+            "name": "LS polls marked end of communal <b>politics</b> in <b>India</b>: Akhilesh Yadav",
+            "url": "https://kashmirreader.com/2024/07/03/ls-polls-marked-end-of-communal-politics-in-india-akhilesh-yadav/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.No0gSVmbm6ZIRuEsaVaPUy&pid=News",
+                    "width": 266,
+                    "height": 190
+                }
+            },
+            "description": "NEW DELHI: Samajwadi Party chief Akhilesh Yadav on Tuesday said the 2024 Lok Sabha polls marked the end of communal <b>politics</b> in <b>India</b>, and were a moral victory for the <b>INDIA</b> bloc. Participating in the debate on the Motion of Thanks to the president\u2019s ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b474d3c7-a39a-d5ba-7426-18e00042f03e",
+                    "name": "New Delhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/076b05dc-6d79-f9a7-f6e8-336560a91db4",
+                    "name": "Samajwadi Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0c3a8967-2287-0c16-3277-c6bd12f9ad9e",
+                    "name": "Akhilesh Yadav"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b3679722-eeee-a48b-a4a5-3f6c296a705b",
+                    "name": "Kannauj"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f624b656-1585-9836-7a98-128016c67d52",
+                    "name": "Uttar Pradesh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bbf73875-f13b-4cd1-0c21-4854a9bcfd99",
+                    "name": "Faizabad"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Kashmir Reader"
+                }
+            ],
+            "datePublished": "2024-07-03T10:42:00.0000000Z"
+        },
+        {
+            "name": "&#39;PM Modi was lying&#39;: Congress chief Kharge on why opposition walked out from Rajya Sabha",
+            "url": "https://timesofindia.indiatimes.com/india/pm-modi-was-lying-congress-chief-kharge-on-why-oppn-walked-out-from-rajya-sabha/articleshow/111457402.cms",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.PpsCsHwEQY6XOxCbPcr--S&pid=News",
+                    "width": 700,
+                    "height": 379
+                }
+            },
+            "description": "Congress chief Mallikarjun Kharge on Wednesday said that the opposition MPs staged a walkout from Rajya Sabha because they were not allowed.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/015f7181-6583-76db-2069-4078b22361f7",
+                    "name": "Mallikarjun Kharge"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7804fb2e-ea6c-f934-6dc5-c5bc671e2ba2",
+                    "name": "The Times of India"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Narendra Modi"
+                },
+                {
+                    "name": "Mallikarjun Kharge"
+                },
+                {
+                    "name": "India News"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Indiatimes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.VBzHmoY4z9NL3FbRonyM1w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T10:09:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "Powertrip: Bad news for DK brothers, Naidu\u2019s main demand to BJP",
+            "url": "https://www.newslaundry.com/2024/07/03/powertrip-bad-news-for-dk-brothers-naidus-main-demand-to-bjp",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.aA1tlsu4Ryff1SOoMtAheS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "As the parliament sizzles in a new form after 10 years with the Lok Sabha seeing a strong opposition, state politics is also keeping pace. It\u2019s decision time for many parties based on the election results and upcoming elections \u2013 how much will the general election mandate change how regional parties and state units of national parties function?",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7d57002e-b1ac-ea51-566e-001ecd06ba9e",
+                    "name": "DK"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c889916-e85c-951e-6941-4882c6cbffc5",
+                    "name": "Newslaundry"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7543726-7cf5-dea2-2675-976bdf3fc515",
+                    "name": "Lok Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/216903eb-bbc1-497e-b914-8eb69db6f747",
+                    "name": "Karnataka"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9807d3c8-3948-8c43-0ae8-87f6fea1ce04",
+                    "name": "Politics of Maharashtra"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d932c0c-d3e6-abbd-5274-6b53036ca764",
+                    "name": "Kerala"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0719c2cf-1307-07b0-7cb2-5a4d2f4b22db",
+                    "name": "Communist Party of India (Marxist)"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Newslaundry",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ReRfWW7-tWCeLLvbQ9FxpA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T09:30:00.0000000Z"
+        },
+        {
+            "name": "Parliament LIVE: Rajya Sabha Adjourned Sine Die After PM Modi&#39;s Speech On Motion of Thanks",
+            "url": "https://www.news18.com/india/parliament-live-updates-lok-sabha-session-latest-news-pm-modi-speech-rahul-gandhi-bjp-congress-3-july-2024-liveblog-8952495.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.iqvAeQp8wZf_Y3L-OZzjGC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Follow the live updates from Parliament on July 3, 2024, including PM Modi&#39;s speech, latest news from Lok Sabha session, and key statements from Rahul Gandhi and other leaders at news18.com",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7543726-7cf5-dea2-2675-976bdf3fc515",
+                    "name": "Lok Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/840bd7e7-e599-51ad-66c7-ec4a2611fdc5",
+                    "name": "Om Birla"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9913cc2e-f0ca-d666-8d18-c801ab4e8b46",
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c02916d-c793-c61c-048c-8725f51a8514",
+                    "name": "Hindus"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Lok Sabha"
+                },
+                {
+                    "name": "Parliament of the United Kingdom"
+                },
+                {
+                    "name": "Adjournment sine die"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNN-News18",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.raV3hWx5LJpFUHNtCFAcrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T09:17:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Easynomics: Of exam paper leaks, Byju\u2019s, Kota Factory, and Dunki",
+            "url": "https://www.livemint.com/newsletters/easynomics/easynomics-of-exam-paper-leaks-byju-s-kota-factory-and-dunki-11719990946595.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.XBnn3JUPV3im5ChRVVjpIC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The only way to ensure that leaking exam papers is no longer economically viable is to ensure that there are enough and more economic opportunities going around for those entering the workforce. Now,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1844f501-144b-db84-e0d1-d86795cc7f31",
+                    "name": "Kota Factory"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e402c108-ade8-40dd-b6d7-f36882e8e3e3",
+                    "name": "Bihar"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Mint",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.W8vM8p2PIvfc6Sh2F0nZpA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T07:59:00.0000000Z",
+            "category": "LifeStyle"
+        },
+        {
+            "name": "Who\u2019s Swaraj, asks Kerala Guv Arif Mohammed Khan over \u2018sound mindset\u2019 remarks",
+            "url": "https://english.mathrubhumi.com/news/kerala/kerala-governor-retorts-over-ridiculing-remarks-asking-who-is-swaraj-1.9691385",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3uk60ofsRC6kptntdOYzqC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Thiruvananthapuram: Reacting to the insulting remarks on him by CPM State secretariat member M Swaraj, Kerala Governor Arif Mohammad Khan said that he does not know who Swaraj is and added that he would not answer such people.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7450b86-c3c4-43e6-8f9c-263b15956c09",
+                    "name": "Thiruvananthapuram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b14db8a2-6f80-aa45-c009-92d308e84484",
+                    "name": "M. Swaraj"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d932c0c-d3e6-abbd-5274-6b53036ca764",
+                    "name": "Kerala"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/221ee855-8ddc-997a-515c-7ff1b9adbb95",
+                    "name": "Arif Mohammad Khan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8b5fe875-b6a7-2a78-8ef4-80ac45509d1e",
+                    "name": "Constitution of India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/40681569-b297-dac7-fb57-8933522437b8",
+                    "name": "Constituent assembly"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "english.mathrubhumi",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.T9_adptay9UdTaZrH5KQiQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T07:21:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "People defeated propaganda, prioritised performance in 2024 elections, says PM Modi in Rajya Sabha",
+            "url": "https://www.firstpost.com/india/people-defeated-propaganda-prioritised-performance-in-2024-elections-says-pm-modi-in-rajya-sabha-13788743.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.1zAEXbAyXgqBdGQl9JHJ3S&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "We feel proud of the wisdom and intelligence of the people of this country, in these elections. They defeated propaganda. They prioritised performance. They rejected the politics of deceit and put stamp of victory on the politics of trust,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/003bb172-a925-6e32-f192-a79767e56490",
+                    "name": "PM Narendra Modi"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "India"
+                },
+                {
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "name": "Time"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Firstpost",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.QhGNXWFNN9fOcqA6wgPRRg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T07:13:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "PM Modi&#39;s &#39;Remote Government&#39; Jibe At Opposition In Rajya Sabha: WATCH",
+            "url": "https://news.abplive.com/news/india/pm-narendra-modi-rajya-sabha-speech-parliament-special-session-attacks-congress-opposition-1699946",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.LDPmdu3zv3hbDA5IU9WtuS&pid=News",
+                    "width": 700,
+                    "height": 394
+                }
+            },
+            "description": "The Rajya Sabha is continuing the debate on July 3 on the motion of thanks on the last week&#39;s President\u2019s Address to both Houses of Parliament",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/780eb6a0-7087-aebe-e519-a94af88395e7",
+                    "name": "National Democratic Alliance"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7543726-7cf5-dea2-2675-976bdf3fc515",
+                    "name": "Lok Sabha"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Remote"
+                },
+                {
+                    "name": "Jibe"
+                },
+                {
+                    "name": "Narendra Modi"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "abp\u00a0LIVE",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UYNf2ah7KBeyh4E8hy_jZQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T07:04:00.0000000Z",
+            "video": {
+                "name": "PM Modi&#39;s &#39;Remote Government&#39; Jibe At Opposition In Rajya Sabha: WATCH",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.PraH7IZVZFCAb1yPVI4Iyg&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            }
+        },
+        {
+            "name": "Hathras stampede: Death toll rises to 121, FIR lodged against organisers; CM visit likely",
+            "url": "https://www.dailypioneer.com/2024/top-stories/hathras-stampede--death-toll-rises-to-121--fir-lodged-against-organisers--cm-visit-likely.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.MZxdNfr4n0ge20zqpoiupi&pid=News",
+                    "width": 700,
+                    "height": 560
+                }
+            },
+            "description": "The death toll in the stampede at a religious congregation here rose to 121 on Wednesday with Uttar Pradesh Police registering an FIR against the organisers, accusing them of hiding evidence and flouting conditions with 2.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/566d24b7-20d3-ce73-0472-e80edbf9b074",
+                    "name": "Uttar Pradesh Police"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1b1e0f9b-71be-1556-e185-80311b755c93",
+                    "name": "Yogi Adityanath"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f624b656-1585-9836-7a98-128016c67d52",
+                    "name": "Uttar Pradesh"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Pioneer",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.D-oxRrhBY_SZCgzSpCnM6w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T06:41:00.0000000Z"
+        },
+        {
+            "name": "Taliban rules: Afghan woman abandons doctoring for pickle-making",
+            "url": "https://www.hindustantimes.com/world-news/taliban-rules-afghan-woman-abandons-doctoring-for-picklemaking-101719988226325.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.R5um-ZZRY6levYSO2F973y&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Women&#39;s participation in the workforce in Afghanistan, always limited by conservative cultural beliefs, was 14.8% in 2021, before the Taliban seized power and imposed harsh restrictions on women and girls. They include banning female education beyond sixth grade, barring women from public spaces like parks, and enforcing dress codes.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5f903aaf-8dc4-5b77-a8cb-58bb87a03091",
+                    "name": "Taliban"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9e39744c-fdfe-92b6-a9bc-39aa272561e6",
+                    "name": "Kabul"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Hindustan Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Caqyr0opfKlydldMITdwcw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T06:39:00.0000000Z"
+        },
+        {
+            "name": "Naidu, a visionary par excellence",
+            "url": "https://www.thehansindia.com/news/cities/tirupathi/naidu-a-visionary-par-excellence-888929",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.VpdigZLm8bOsVfILMifHKS&pid=News",
+                    "width": 700,
+                    "height": 420
+                }
+            },
+            "description": "In his 40-year political life, Chandrababu Naidu becomes MLA for nine times and served as CM for over 14 years",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e6825f3a-defe-f7ac-3062-eb6faaf33c9f",
+                    "name": "Tirupati"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6ce6ecb3-4065-3f0e-a057-3ceb94dd8200",
+                    "name": "N. Chandrababu Naidu"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2cbdaf13-3cd1-ae30-0b52-251ae89e4376",
+                    "name": "N. T. Rama Rao"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Hans India",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.C1ai1HOZkX2PH7JO9JSnrA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T06:30:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Ex Jharkhand CM Hemant Soren to chair crucial <b>INDIA</b> bloc meeting on Wednesday",
+            "url": "https://www.moneycontrol.com/news/politics/ex-jkhand-cm-hemant-soren-to-chair-crucial-india-bloc-meeting-on-wednesday-12761190.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.HOTeF0zjusMOKr2E8mhpMS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "\u201cWe were asked by our party to attend a meeting of <b>INDIA</b> bloc legislators on Wednesday in view of ... JMM spokesperson Manoj Pandey said the agenda of the meeting is \u201c<b>political</b> developments\u201d in the state. Apart from the CM, Hemant Soren\u2019s brother ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e25bf8b3-60bf-f1c6-0adf-8de728b101bc",
+                    "name": "Hemant Soren"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9cf33868-3d76-c243-1cd3-91dda44b77e3",
+                    "name": "Jharkhand"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/194fcf4d-07f6-cf96-2049-0c75e15cbad3",
+                    "name": "Jharkhand Mukti Morcha"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "moneycontrol.com"
+                }
+            ],
+            "datePublished": "2024-07-03T06:22:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Congress versus Congress in Karnataka with powerful seers adding to drama",
+            "url": "https://www.tribuneindia.com/news/india/congress-versus-congress-in-karnataka-with-powerful-seers-adding%C2%A0to-drama-636395",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.e6PFYjI9izsx6Na6P_T-XC&pid=News",
+                    "width": 615,
+                    "height": 365
+                }
+            },
+            "description": "Calls for CM change gain momentum after a Vokkaliga seer pitches for DK Shivakumar. While the public attention remained focused on Narendra Modi versus",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/216903eb-bbc1-497e-b914-8eb69db6f747",
+                    "name": "Karnataka"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9913cc2e-f0ca-d666-8d18-c801ab4e8b46",
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7543726-7cf5-dea2-2675-976bdf3fc515",
+                    "name": "Lok Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/612de4ae-a7e7-d9fa-873f-955e493a6073",
+                    "name": "Vokkaliga"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9e4fedf7-2f89-4e4a-a798-5dc3859eb63b",
+                    "name": "D. K. Shivakumar"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Tribune",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.eMXnJUdIZAF-K_9mwrjsXw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T06:17:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Mohammad Rizwan Breaks Silence On <b>Politics</b> In Pakistan Team, Says &quot;The Same Team Has...&quot;",
+            "url": "https://sports.ndtv.com/cricket/mohammad-rizwan-breaks-silence-on-politics-in-pakistan-team-claims-it-is-true-6020059",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.IgKyHr_vPT-lprF7Lfy1_S&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "While Rizwan admitted that while the criticism from the fans is justified, he rubbished the rumours of politics and groupism within the team, labelling it as &#39;outside chatter&#39;.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/eca5a303-e438-4fdf-eeb8-7ce4d0ab28ca",
+                    "name": "Mohammad Rizwan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/69cd8ccc-adba-8eeb-a48e-3e7229e9666c",
+                    "name": "Pakistan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5f013123-47cb-2998-667d-5fd4e6778559",
+                    "name": "Peshawar"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e10ad4e3-4049-55c9-d1f4-f83f31a6a3be",
+                    "name": "ICC Men&#39;s T20 World Cup"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "NDTV",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4noS8q5D3eOJne8uwNJWvg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T06:13:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "NEET paper leak: Thalapathy Vijay opens up on ongoing debate, says &#39;exemption from exam is only solution&#39;",
+            "url": "https://www.indiatvnews.com/entertainment/news/neet-paper-leak-thalapathy-vijay-opens-up-on-ongoing-debate-says-exemption-from-exam-is-only-solution-2024-07-03-940012",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.npf7S1fuh5CGf08zAxjYAC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Amid the ongoing debate over NEET paper leak, actor-turned-politician has finally broken his silence on the issue and said that the people have lost faith in the examination.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9fe593f4-d698-5d01-b096-c2fa422475a4",
+                    "name": "NEET"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d97acf5c-0a2b-cd2c-e895-ef8aa64b883b",
+                    "name": "Chennai"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6e3e5a82-8737-a613-1d99-0b4d68370109",
+                    "name": "Tamil Nadu"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/98d8bac3-8012-4160-910d-49644124e0c4",
+                    "name": "Asian News International"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8b5fe875-b6a7-2a78-8ef4-80ac45509d1e",
+                    "name": "Constitution of India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "India TV",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.IaXDAOnJaO-iU5IbMMsMHw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T06:13:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Dr B.R. Ambedkar and Dalit Sports: Caste and Bombay City",
+            "url": "https://www.epw.in/engage/article/dr-br-ambedkar-and-dalit-sports-caste-and-bombay",
+            "description": "In recent years, histories of sport in colonial Bombay city have attracted the attention of researchers and academicians. This article aims to delve into why Dalits were attracted to sports and how the caste became a blockade for the participation of Dalit sports persons.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/abb4e2e6-4ead-2a84-03ef-a98b7d139c96",
+                    "name": "Dr. B. R. Ambedkar National Institute of Technology Jalandhar"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bc57f4aa-d7ee-36bc-39a9-44b30788eaff",
+                    "name": "Caste"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7b476a21-c922-5c93-3a2d-9cd5e0fd49e9",
+                    "name": "Dalit"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/177ecab2-3881-328e-cd25-6b650de17d84",
+                    "name": "B. R. Ambedkar"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Economic and Political Weekly",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.x-2sGOFuv0lB_AL62sKmzw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T05:56:00.0000000Z"
+        },
+        {
+            "name": "Rahul Gandhi in Parliament: His attack on Hindutva goes against <b>India</b>\u2019s collective conscience",
+            "url": "https://indianexpress.com/article/opinion/columns/rahul-gandhi-parliament-speech-hindutva-attack-india-collective-conscience-9428768/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.aL4KAcoK_wn6zj6P7qIVai&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "He has linked Hindutva with violence. This is not a political error but a well-thought-out move. He wants to be first among pseudo-seculars",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9913cc2e-f0ca-d666-8d18-c801ab4e8b46",
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/99e0fe1d-1170-1375-4d62-70017cfb2f0e",
+                    "name": "Hindutva"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0e215e18-734d-f967-cbbc-6aa82c274814",
+                    "name": "Indian National Congress"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4f296f0c-b0e9-60f3-2bdc-c15aca5e2291",
+                    "name": "RSS"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/dfd25f4f-3db5-6749-2ef8-77cf8eb75c28",
+                    "name": "Jawaharlal Nehru"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/876860a6-fd5c-89b1-bc4b-57940b7e4f58",
+                    "name": "Indira Gandhi"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Indian Express",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.KAwemXIpD5l2nQRDmYLy2w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T05:21:00.0000000Z",
+            "category": "LifeStyle"
+        },
+        {
+            "name": "PM Modi offers water to Congress MPs shouting &#39;taanashahi nahi chalegi&#39; in Lok Sabha: Watch viral video",
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-offers-water-to-congress-mps-shouting-taanashahi-nahi-chalegi-in-lok-sabha-watch-viral-video/articleshow/111447699.cms",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.561a-gfvFYsWiZOJcsrRbi&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "In a dramatic session on Tuesday, the Lok Sabha witnessed chaotic scenes as Prime Minister Narendra Modi faced vehement protests from the Opposition while addressing the Motion of Thanks to the President&#39;s address.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7543726-7cf5-dea2-2675-976bdf3fc515",
+                    "name": "Lok Sabha"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Indiatimes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ajXT0U6_LaErmc8AT6Kh3Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T05:03:00.0000000Z"
+        },
+        {
+            "name": "Pro-Modi vs \u2018anti-<b>India</b>\u2019 diaspora: For a Labour govt, balancing act will be key in UK-<b>India</b> ties",
+            "url": "https://www.newslaundry.com/2024/07/03/pro-modi-vs-anti-india-diasporas-for-a-labour-govt-balancing-act-will-be-key-in-uk-india-ties",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.PQR8Xj6luhkmkOinPZspYC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The \u201cMuslim manifesto\u201d demands that the UK must uphold \u201cinternational law\u201d, and \u201cinternational peace and justice\u201d, \u201cend Israeli occupation of Palestinian lands, and recognise the state of Palestine\u201d. Unlike the Hindu manifesto, it also flags cost of living issues, better housing, and the need for a fair and diverse media.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5a7adc8f-0087-34c8-97e4-e691f9080f6d",
+                    "name": "Jammu Kashmir Liberation Front"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d6a70116-a8f5-cf89-bf4e-22df8f2813e7",
+                    "name": "Sikhs for Justice"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c889916-e85c-951e-6941-4882c6cbffc5",
+                    "name": "Newslaundry"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d77b754-daac-6089-dfb3-8f7ed2c7c496",
+                    "name": "Dyslexia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9a60fbeb-f6ac-4c0f-aace-378118448126",
+                    "name": "Jammu and Kashmir"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2aef161a-9632-5764-55bd-10e33588ab88",
+                    "name": "Government of India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c38266bb-c5ec-d1d6-9bfe-d6b6ec242aa1",
+                    "name": "Labour Party"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Newslaundry",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ReRfWW7-tWCeLLvbQ9FxpA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T04:59:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "LIVE: Govt forms cabinet committees including on security, economic affairs, and <b>political</b> affairs",
+            "url": "https://www.business-standard.com/india-news/latest-news-live-updates-july-3-todays-breaking-news-pm-modi-rahul-gandhi-uttar-pradesh-hathras-satsang-loksabha-budget-2024-124070300092_1.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.SEPZUnYelgj99bFAMvWExC&pid=News",
+                    "width": 400,
+                    "height": 400
+                }
+            },
+            "description": "<b>Indian</b> Express reported. Her husband then filed a missing person complaint at the New Jalpaiguri police station. 5:39 PM Govt constitutes various cabinet committees including on security, economic affairs, and <b>political</b> affairs. Cabinet Committee on ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ae97ea70-b5a9-3e5a-d688-d21b85110ac5",
+                    "name": "Hathras"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f624b656-1585-9836-7a98-128016c67d52",
+                    "name": "Uttar Pradesh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1b1e0f9b-71be-1556-e185-80311b755c93",
+                    "name": "Yogi Adityanath"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bd577fc8-eb60-d058-73ca-8709fad77490",
+                    "name": "Aligarh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/829cf8db-d987-44db-86ff-1f3fac13dfcd",
+                    "name": "India Meteorological Department"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c70b768e-21ab-4f53-a356-564e8da2291e",
+                    "name": "Gujarat"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Standard"
+                }
+            ],
+            "datePublished": "2024-07-03T04:52:00.0000000Z"
+        },
+        {
+            "name": "Rahul Gandhi&#39;s speech in Parliament \u2014 what&#39;s the real message that it conveys to the government as well as NDA",
+            "url": "https://www.cnbctv18.com/india/politics/rahul-gandhis-speech-in-parliament-the-real-message-to-the-government-shifting-political-landscape-strong-and-confident-opposition-19437294.htm",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.e1EyXxjQlMR-VgqSY1h57y&pid=News",
+                    "width": 500,
+                    "height": 300
+                }
+            },
+            "description": "In 2014, the <b>Indian</b> <b>political</b> landscape underwent a significant transformation when the Bharatiya Janata Party (BJP), led by Narendra Modi, secured a historic majority. This dominance continued in 2019, leaving the opposition in a state of disarray.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9913cc2e-f0ca-d666-8d18-c801ab4e8b46",
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/88003aeb-e7bf-a101-f29d-a558e695181b",
+                    "name": "Parliament"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/99e0fe1d-1170-1375-4d62-70017cfb2f0e",
+                    "name": "Hindutva"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "cnbctv18"
+                }
+            ],
+            "datePublished": "2024-07-03T04:37:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Why team <b>India</b>\u2019s world cup win is special",
+            "url": "https://timesofindia.indiatimes.com/blogs/toi-edit-page/why-team-indias-world-cup-win-is-special/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.DreS1DqW5sMYLlHLJ_jVgy&pid=News",
+                    "width": 700,
+                    "height": 543
+                }
+            },
+            "description": "Anant Goenka India becoming T20 world champions was a fabulous moment for India, for cricket. For me, what makes the win special is that in an era of bullies, the nice guys",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8583a44a-dc6a-bf31-1df2-625e6f8c400d",
+                    "name": "India national cricket team"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/56bcfaf9-df53-4e77-1e38-f8a7da102c63",
+                    "name": "Rohit Sharma"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e7a42d68-16aa-7f2b-e1ee-0f3049bf3695",
+                    "name": "Rahul Dravid"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e28a6d16-cd26-70e1-6ab0-17be06184bc5",
+                    "name": "Dronacharya Award"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a595ef55-4c61-79ff-3b28-fba7ab3b2b5f",
+                    "name": "Kabaddi"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Indiatimes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.VBzHmoY4z9NL3FbRonyM1w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T03:06:00.0000000Z",
+            "category": "LifeStyle"
+        },
+        {
+            "name": "Gold smuggling bust sparks <b>political</b> row",
+            "url": "https://www.hindustantimes.com/india-news/gold-smuggling-bust-sparks-political-row-101719948430923.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.adCH200byUmzTAzQnAWicy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The DMK accused a Chennai-based BJP functionary allegedly associated with Vidvedaa and close to the party\u2019s state and national leaders of playing a role in the smuggling",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8bf433a-30dc-4419-3b1e-9af15696e144",
+                    "name": "Chennai International Airport"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d97acf5c-0a2b-cd2c-e895-ef8aa64b883b",
+                    "name": "Chennai"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "India"
+                },
+                {
+                    "name": "Hindustan Times"
+                },
+                {
+                    "name": "Bust"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Hindustan Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Caqyr0opfKlydldMITdwcw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T03:04:00.0000000Z"
+        },
+        {
+            "name": "In his Rajya Sabha address, PM Modi hails people of country for \u2018rejecting <b>politics</b> of propaganda, deceit\u2019",
+            "url": "https://www.thestatesman.com/?p=1503316334",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.L20bofDBgGawnOjvFslepS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Prime Minister Narendra Modi on Wednesday appreciated people of the country for rejecting the politics of deceit, defeating propaganda and putting a stamp of victory on the politics of trust in the recently concluded Lok Sabha elections.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6979ba0c-2e68-834b-2c08-25919c566a7b",
+                    "name": "Upper house"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Narendra Modi"
+                },
+                {
+                    "name": "World War I film propaganda"
+                },
+                {
+                    "name": "Rajya Sabha"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Statesman",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.EIhh77w1LvkNwaepHGGQcA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T02:45:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Two speeches: Editorial on Rahul Gandhi and Narendra Modi&#39;s exchange in Lok Sabha",
+            "url": "https://www.telegraphindia.com/opinion/two-speeches-editorial-on-rahul-gandhi-and-narendra-modis-exchange-in-lok-sabha/cid/2031157",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.WahK1Mn9AF8rfVfbsOSduS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Verbal clashes are to be expected when the House is in session. Both sides, the govt and Opposition, must ensure these exchanges do not violate established codes of conduct of the House",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9913cc2e-f0ca-d666-8d18-c801ab4e8b46",
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7543726-7cf5-dea2-2675-976bdf3fc515",
+                    "name": "Lok Sabha"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Telegraph",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.2ECxkdLcZYNGvCihgSj95g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T02:30:00.0000000Z"
+        },
+        {
+            "name": "President\u2019s address reflects government\u2019s insecurity: Congress",
+            "url": "https://newsmeter.in/politics/presidents-address-reflects-governments-insecurity-congress-731843",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.oPuPbay5AQ53HOgNsnYjry&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The Congress general secretary claimed that the BJP was stuck at 240 seats despite the support of the CBI, the ED, and the Income Tax",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b474d3c7-a39a-d5ba-7426-18e00042f03e",
+                    "name": "New Delhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/901b2f51-d935-494b-d139-4a2286d09e29",
+                    "name": "K. C. Venugopal"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/dc8d293e-d75a-412f-824f-3109a8cccd6a",
+                    "name": "Income Tax Department"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "newsmeter",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.9putyE4A8Gin-latfFMu7w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-03T02:22:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "\u2018Mai desh ka sevak hun\u2019: PM Modi slams opposition for \u2018selective approach\u2019 to atrocities against women | 10 points",
+            "url": "https://www.livemint.com/politics/news/pm-modi-rajya-sabha-poverty-india-congress-opposition-sandeshkhali-women-empowerment-indian-economy-lakhpati-didi-11719990467848.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.YTCb8CjP30hedcXs42KWVi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "When <b>India</b> will become the third largest economy in the world, its impact will be on every sphere of life. \u201cMai desh ka sevak hun\u201d (I am a servant of the nation), and noted that \u201cWe focus on development and not on vote-bank <b>politics</b>\u201d. #WATCH ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Mint"
+                }
+            ],
+            "datePublished": "2024-07-03T00:54:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Parliament Session LIVE: PM Modi Assures Citizens To Take <b>India</b> On Next Level In His 3rd Term, Says Congress Stuck In Nervous 90s",
+            "url": "https://www.news18.com/india/parliament-session-live-updates-lok-sabha-session-latest-news-pm-modi-reply-rahul-gandhi-neet-issue-bjp-congress-july-2-2024-liveblog-8951204.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.YgX9Bon4PIbKq3C7h0lp1S&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "PM Modi is set to speak in Parliament today, following Leader of Opposition Rahul Gandhi&#39;s attack on the Bharatiya Janata Party (BJP) in the Lok Sabha, accusing its leaders of dividing people along co",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9913cc2e-f0ca-d666-8d18-c801ab4e8b46",
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a7543726-7cf5-dea2-2675-976bdf3fc515",
+                    "name": "Lok Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d9a8abc-8fa4-620b-cf5f-c5c212f38516",
+                    "name": "Amit Shah"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "name": "The Day After"
+                },
+                {
+                    "name": "Narendra Modi"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNN-News18",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.raV3hWx5LJpFUHNtCFAcrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-02T11:36:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Parliament session highlights: PM Modi condoles the Hathras incident in Parliament",
+            "url": "https://www.business-standard.com/india-news/parliament-session-2024-live-updates-lok-sabha-rajya-sabha-pm-modi-rahul-gandhi-congress-bjp-neet-ug-paper-leak-controversy-om-birla-124070200201_1.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.wuC42GuYvpnuq6xFnbzWQC&pid=News",
+                    "width": 400,
+                    "height": 400
+                }
+            },
+            "description": "On July 1, Leader of Opposition Rahul Gandhi slammed the BJP in the Lok Sabha, accusing the leaders of the ruling party of dividing people on communal lines, drawing massive protests from the treasury benches, with Prime Minister Narendra Modi slamming the Congress leader for calling the entire Hindu community violent.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/88003aeb-e7bf-a101-f29d-a558e695181b",
+                    "name": "Parliament"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b474d3c7-a39a-d5ba-7426-18e00042f03e",
+                    "name": "New Delhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9913cc2e-f0ca-d666-8d18-c801ab4e8b46",
+                    "name": "Rahul Gandhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/780f7935-31b3-a278-f937-ce9614eae9af",
+                    "name": "The Hindu"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d496e291-47a4-b709-8394-c49c49c10563",
+                    "name": "Hinduism"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Standard",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6yYEGE61ig4jYI6NTUmjjg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-02T05:12:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "<b>India</b> <b>Political</b> Highlights | Karnataka CM Siddaramaiah meets PM Modi in Delhi",
+            "url": "https://www.deccanherald.com/india/india-politics-live-bjp-narendra-modi-congress-rahul-gandhi-tmc-mamata-banerjee-aap-arvind-kejriwal-shiv-sena-nda-shiv-sena-ubt-eknath-shinde-3085913",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.wWi30d41esvRfx9fMlTlaS&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Former Rajya Sabha MP and veteran Telangana leader Dharmapuri Srinivas passed away due to heart attack today morning. Union Civil Aviation Minister Ram Mohan Naidu Kinjarapu has responded on the canopy collapse incident at Delhi airport T-1 saying that they have sought a report from all the airports across the country within 2-5 days to ensure structural preliminary inspection at all airports.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/406f9300-0c0c-3948-9d26-5c194e968300",
+                    "name": "Arvind Kejriwal"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/275e8ab8-7bd0-4633-9c89-0133be92e587",
+                    "name": "Delhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f6a46cf-44e0-4993-8347-c3c270823479",
+                    "name": "Sanjay Singh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8ac0059-5592-ed5f-b347-78148fbce134",
+                    "name": "Rajya Sabha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9cf33868-3d76-c243-1cd3-91dda44b77e3",
+                    "name": "Jharkhand"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e25bf8b3-60bf-f1c6-0adf-8de728b101bc",
+                    "name": "Hemant Soren"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f3b1aac-b48a-884c-a9a7-48065cfbe5fe",
+                    "name": "Ranchi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d9a8abc-8fa4-620b-cf5f-c5c212f38516",
+                    "name": "Amit Shah"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e79e3eab-6139-837c-4c80-d88c812db3ba",
+                    "name": "Panchkula"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f50b36c9-0e06-9b0a-b657-100ebb295bb1",
+                    "name": "Haryana"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Deccan Herald",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.HCNTQVDySJbiiNPGW3xUig&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-06-29T11:32:00.0000000Z"
+        },
+        {
+            "name": "Rise of the regionals",
+            "url": "https://frontline.thehindu.com/politics/2024-lok-sabha-election-results-regional-parties-narendra-modi-bjp-nda-india-bloc-congress-opposition/article68316397.ece",
+            "description": "Regional party performances across India\u2019s key battleground states show how local alliances reshaped national politics, denting BJP\u2019s grip and boosting the comeback of Congress. Here\u2019s an analysis of regional party performance in key states,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/076b05dc-6d79-f9a7-f6e8-336560a91db4",
+                    "name": "Samajwadi Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0c3a8967-2287-0c16-3277-c6bd12f9ad9e",
+                    "name": "Akhilesh Yadav"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b474d3c7-a39a-d5ba-7426-18e00042f03e",
+                    "name": "New Delhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f624b656-1585-9836-7a98-128016c67d52",
+                    "name": "Uttar Pradesh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/eb3d2900-d8f6-7103-31a3-4a9f285c366a",
+                    "name": "2024 United States presidential election"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "frontline.thehindu",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.QBIG067VgYCnilncLk4dvA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-06-27T07:51:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "It&#39;s official: <b>Indian politics</b> now means Modi versus Rahul",
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/its-official-indian-politics-now-means-modi-versus-rahul/articleshow/111283266.cms",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.T1JkLOoEzcixLoLa2Xr3gi&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Now with Rahul as the leader of opposition, the <b>politics</b> in <b>India</b> will be all about Modi versus Rahul. Why Rahul as LoP matters This is the first time in a decade that the Lok Sabha will have a leader of opposition. In the previous two Lok Sabha terms ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0e215e18-734d-f967-cbbc-6aa82c274814",
+                    "name": "Indian National Congress"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d6673f5-3d6e-fc74-a8fc-df7d6d8f6f71",
+                    "name": "Sharad Pawar"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d6973c1f-14df-4d61-ed88-9733dd5e8122",
+                    "name": "Mamata Banerjee"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Indiatimes"
+                }
+            ],
+            "datePublished": "2024-06-26T22:20:00.0000000Z"
+        }
+    ],
+    "_id": "66856ec0b6ad55bd72fe1cb5"
+}

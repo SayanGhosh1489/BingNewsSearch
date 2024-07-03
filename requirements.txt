@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+python-decouple==3.8
+requests==2.32.3
+python-dotenv
+jsons
+pymongo
+bson
